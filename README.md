@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ML & AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shahzebkhanyusfzai](https://github.com/shahzebkhanyusfzai)
+- 👨‍💻 All of my projects are available at [https://github.com/repositories](https://github.com/shahzebkhanyusfzai?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@shahzebkhan_54985](https://medium.com/@shahzebkhan_54985)
 
